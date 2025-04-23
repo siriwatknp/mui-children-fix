@@ -1,0 +1,20 @@
+{
+    "compileOnSave": false,
+    "buildOnSave": false,
+    "compilerOptions": {
+        "jsx": "react-jsx",
+        "moduleResolution": "node",
+        "module": "ES2020",
+        "target": "ES6",
+        "lib": [
+            "es2021",
+            "DOM",
+            "WebWorker"
+        ],
+        "strict": true,
+        "importHelpers": true,
+        "removeComments": true,
+        "esModuleInterop": true,
+        "isolatedModules": true,
+    }
+}
